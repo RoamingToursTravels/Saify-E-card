@@ -21,8 +21,8 @@ function saveContact() {
     const name = 'Saify Abid Bhuiyan';
     const organization = 'Roaming Tours & Travels';
     const title = 'Backend Engineer';
-    const officePhone = '01329739731';
-    const personalPhone = '1332547043';
+    const officePhone = '01332547043';
+    const personalPhone = '';
     const email = 'saify.roamingbd@gmail.com';
     const secondaryEmail = '';
     const website = 'https://www.roamingbd.com';
